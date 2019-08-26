@@ -31,12 +31,41 @@ I am Suma soma.
 
 I am looking to forward to work on these Webapplications, I hope Everything goes fine.
 
-#Including image in md file
+# Lists
 
-'''
+Below are the two types of lists. 
+
+1. Ordered Lists
+2. Unordered Lists
+
+# Ordered Lists
+
+In ordered lists all the list items will be prefixed with numbers. Below are the examples
+ 
+ **Examples:**
+
+1. Sun
+2. Moon
+3. Earth
+
+# Unordered Lists
+
+In unordered lists all the list items will be prefixed with dots. Below are the numbers
+
+ **Examples:**
+ 
+- Sun
+- Moon
+- Earth
+
+
+
+# Including image in md file
+
+```
 Use below syntax to include image in read.md file.
 ![image](image url)
-'''
+```
 
 By using above example I have  included below images.
 
@@ -46,4 +75,8 @@ By using above example I have  included below images.
 **Example 2:**'
 ![image](https://ca-times.brightspotcdn.com/dims4/default/1edfb66/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fa1%2F00%2F09ea3c31eb735038105e50a485ba%2Fla-la-et-rowan-atkinson-jpg-20150325)
 
+# Picture Credits
 
+- [Monalisa](https://ca-times.brightspotcdn.com/dims4/default/1edfb66/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fa1%2F00%2F09ea3c31eb735038105e50a485ba%2Fla-la-et-rowan-atkinson-jpg-20150325)
+- [Mr. Bean](https://ca-times.brightspotcdn.com/dims4/default/1edfb66/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fa1%2F00%2F09ea3c31eb735038105e50a485ba%2Fla-la-et-rowan-atkinson-jpg-20150325)
+ 
