@@ -87,6 +87,6 @@ By using above example I have  included below images.
 
 - [Mr. Bean](https://ca-times.brightspotcdn.com/dims4/default/1edfb66/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fa1%2F00%2F09ea3c31eb735038105e50a485ba%2Fla-la-et-rowan-atkinson-jpg-20150325)
 
--[Dora](https://vignette.wikia.nocookie.net/doratheexplorer/images/3/3f/Dorapresent.png/revision/latest?cb=20190617231332)
+- [Dora](https://vignette.wikia.nocookie.net/doratheexplorer/images/3/3f/Dorapresent.png/revision/latest?cb=20190617231332)
 
  
