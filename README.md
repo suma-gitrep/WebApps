@@ -1,5 +1,5 @@
-# WebApps- working on Markdown using Markdown Guide
-Reference Link for [Duck Duck Go](https://www.markdownguide.org/basic-syntax).
+# WebApps- I am practicing Markdown language using Markdown Guide
+Reference Link for [Markdown syntax](https://www.markdownguide.org/basic-syntax).
 
 
 There are different types of Heading levels in Markdown
