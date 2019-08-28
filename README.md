@@ -83,7 +83,7 @@ By using above example I have  included below images.
 
 ## Picture Credits
 
-- [Monalisa](https://ca-times.brightspotcdn.com/dims4/default/1edfb66/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fa1%2F00%2F09ea3c31eb735038105e50a485ba%2Fla-la-et-rowan-atkinson-jpg-20150325)
+- [Monalisa](https://images2.minutemediacdn.com/image/upload/c_crop,h_1914,w_2835,x_0,y_372/v1556647489/shape/mentalfloss/62280-mona_lisa-wiki.jpg?itok=Mo85fMQD)
 
 - [Mr. Bean](https://ca-times.brightspotcdn.com/dims4/default/1edfb66/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/quality/90/?url=https%3A%2F%2Fca-times.brightspotcdn.com%2Fa1%2F00%2F09ea3c31eb735038105e50a485ba%2Fla-la-et-rowan-atkinson-jpg-20150325)
 
