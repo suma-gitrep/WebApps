@@ -15,7 +15,7 @@ There are different types of Heading levels in Markdown.
 
 ## Alternate Syntax for Heading
 
-Alternatively, on the line below the text, As we can add any number of == characters for heading level 1 and -- characters for heading level 2.
+Alternatively, on the line below the text, we can add any number of == characters for heading level 1 and -- characters for heading level 2.
 
 Heading level 1
 ===============
