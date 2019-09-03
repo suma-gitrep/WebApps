@@ -23,7 +23,6 @@ Heading level 1
 Heading level 2
 ---------------
 
-
 ## Paragraphs
 For creating paragraphs, we should use a blank line to separate one or more lines of text. we should not indent paragraphs with blank spaces or tabs.
 
