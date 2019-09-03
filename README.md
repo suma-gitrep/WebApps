@@ -2,7 +2,7 @@
 Reference Link for [Markdown syntax](https://www.markdownguide.org/basic-syntax).
 
 ## Headings
-There are different types of Heading levels in Markdown
+There are different types of Heading levels in Markdown.
 # Heading level 1
 ## Heading level 2
 ### Heading level 3
@@ -11,9 +11,11 @@ There are different types of Heading levels in Markdown
 ###### Heading level 5
 
 
+
+
 ## Alternate Syntax for Heading
 
-Alternatively, on the line below the text, we can add any number of == characters for heading level 1 and -- characters for heading level 2.
+Alternatively, on the line below the text, As we can add any number of == characters for heading level 1 and -- characters for heading level 2.
 
 Heading level 1
 ===============
